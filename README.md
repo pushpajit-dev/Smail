@@ -1,10 +1,6 @@
 <div align="center">
-
-  <!-- Official Smail Thumbnail Banner -->
-  <img src="https://i.imgur.com/lj8B0sW.jpeg" alt="Smail - Super Email Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
-
   <!-- Official Smail Icon & Title -->
-  <img src="https://i.imgur.com/p63iRVI.jpeg" alt="Smail Icon" width="110" height="110" style="border-radius: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://i.imgur.com/lyizRwU.png" alt="Smail Icon" width="14%" />
 
   # 📧 Smail — The Super Email
   **A Next-Generation Gmail Alternative Built for Maximum Versatility, High Efficiency & Ironclad Security**
@@ -16,8 +12,12 @@
 </div>
 
 ---
+  <!-- Official Smail Thumbnail Banner -->
+  <img src="https://i.imgur.com/lj8B0sW.jpeg" alt="Smail - Super Email Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-## ☕ Support & Get the Full Smail Project
+
+
+## ☕ Full Smail Project
 
 Want to own the complete **Smail (Super Email)** source code, backend configuration, and project files? Grab a cup of coffee and get instant access to the full package on Gumroad!
 
