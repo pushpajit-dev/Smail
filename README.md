@@ -27,7 +27,7 @@ Want to own the complete **Smail (Super Email)** source code, backend configurat
     <br />
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee / Purchase on Gumroad" width="210" />
   </a>
-  <p>👉 <a href="https://pushpajit.gumroad.com/l/cgckdt"><b>Click Here to Buy Smail on Gumroad (pushpajit.gumroad.com/l/cgckdt)</b></a> ☕</p>
+  <p>👉 <a href="https://pushpajit.gumroad.com/l/cgckdt"><b>Buy Smail on Gumroad</b></a> ☕</p>
 </div>
 
 ---
